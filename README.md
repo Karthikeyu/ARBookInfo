@@ -1,5 +1,9 @@
 # ARapp-demo-
-This repository contains an Augmented reality android application which was built using Unity, Vuforia, Android SDk. The app is developed to show the functionality of vuforia cloud based image recognition. 
+This repository contains an Augmented reality android application which was built using Unity, Vuforia, Android SDk. The app is developed to show the functionality of vuforia cloud based image recognition.A demo (video) of the application is available in the following link:
+
+https://drive.google.com/open?id=1AgxNIf79S43oQKruo-Or_ZcRlJIglK3Q
+
+
 
 Using the application:
 
